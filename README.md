@@ -34,7 +34,7 @@ This project demonstrates how classical operating system concepts can be integra
 # Project Structure
 
 ```text
-sai_os/
+s_os/
 │
 ├── checkpoints/
 │   └── gnn_model.pt              # Saved trained model
@@ -88,8 +88,8 @@ sai_os/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sai_os.git
-cd sai_os
+git clone https://github.com/your-username/s_os.git
+cd s_os
 ```
 
 ---
@@ -379,9 +379,7 @@ This project is suitable for:
 
 # Author
 
-Mithun R
-
-M.E / AI & Systems Research Enthusiast
+Sai Deshiga Sri S
 
 ---
 
